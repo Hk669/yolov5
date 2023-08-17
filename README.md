@@ -2,6 +2,7 @@
 
 This repository provides a guide on setting up and using YOLO (You Only Look Once) for object detection using self-trained data and a webcam. YOLO is a popular object detection algorithm that can efficiently detect objects in real-time.
 
+
 ## Prerequisites
 
 - Python (>=3.6)
@@ -88,6 +89,9 @@ cap-detection-yolo-webcam/
 ## Acknowledgments
 
 - This project is built upon the YOLOv5 repository: [YOLOv5 GitHub](https://github.com/ultralytics/yolov5)
+
+![train_batch1](https://github.com/Hk669/yolov5/assets/96101829/c814c7a1-8827-4e87-ab7c-7b92c9353b13)
+
 
 ## License
 
